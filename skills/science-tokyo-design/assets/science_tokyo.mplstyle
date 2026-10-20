@@ -1,0 +1,21 @@
+# Science Tokyo palette for matplotlib (unofficial). plt.style.use("science_tokyo.mplstyle")
+axes.prop_cycle    : cycler('color', ['435ea5', 'fb5b01', '00a3bf', '1c3177', '7f96c2'])
+figure.facecolor   : ffffff
+axes.facecolor     : ffffff
+savefig.facecolor  : ffffff
+axes.edgecolor     : 595959
+axes.labelcolor    : 1a1a1a
+axes.titlecolor    : 1c3177
+axes.spines.top    : False
+axes.spines.right  : False
+axes.grid          : True
+grid.color         : e8eaf1
+grid.linewidth     : 0.6
+xtick.color        : 595959
+ytick.color        : 595959
+lines.linewidth    : 2
+legend.frameon     : False
+font.family        : sans-serif
+font.sans-serif    : Hind, Noto Sans JP, Hiragino Sans, Yu Gothic, DejaVu Sans
+font.size          : 11
+image.cmap         : Blues

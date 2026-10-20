@@ -1,0 +1,54 @@
+/* Science Tokyo design tokens (unofficial summary of https://design-system.isct.ac.jp/ja) */
+:root {
+  /* brand */
+  --st-science-blue: #1c3177;
+  --st-sub: #7f96c2;
+  --st-brand-tertiary: #cfdbed;
+  --st-brand-quaternary: #f9fbff;
+
+  /* navy ramp (same hue as the brand color) */
+  --st-navy-50: #f9fbff;
+  --st-navy-100: #e4ebf6;
+  --st-navy-200: #cfdbed;
+  --st-navy-300: #bac9e2;
+  --st-navy-400: #a5b7d6;
+  --st-navy-500: #7f96c2;
+  --st-navy-600: #5f7ab6;
+  --st-navy-700: #435ea5;
+  --st-navy-800: #2d4590;
+  --st-navy-900: #1c3177;
+  --st-navy-1000: #11215b;
+  --st-navy-1100: #0a1541;
+  --st-navy-1200: #060d2b;
+
+  /* extended colors */
+  --st-content-1: #e97979;
+  --st-content-2: #f8b488;
+  --st-content-3: #edc669;
+  --st-content-4: #81bd5f;
+  --st-content-5: #5aa36c;
+  --st-content-6: #979797;
+  --st-accent-1: #f02b2b;
+  --st-accent-2: #ff8732;
+  --st-accent-3: #f7bb25;
+  --st-accent-4: #69b72a;
+  --st-accent-5: #2c9a4a;
+  --st-accent-6: #707070;
+  --st-background-1: #e8eaf1;
+  --st-background-2: #f2f4f9;
+
+  /* text (this skill's recommendation) */
+  --st-text: #333333;
+  --st-text-muted: #595959;
+  --st-eyebrow: #435ea5;
+  --st-border: #cfdbed;
+
+  /* charts (CVD-checked) */
+  --st-series-1: #435ea5;
+  --st-series-2: #fb5b01;
+  --st-series-3: #00a3bf;
+
+  /* type */
+  --st-font-ja: 'Noto Sans JP', 'Yu Gothic Medium', 'YuGothic', sans-serif;
+  --st-font-en: 'Hind', 'Noto Sans JP', sans-serif;
+}
