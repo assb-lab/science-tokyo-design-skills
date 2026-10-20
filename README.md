@@ -4,15 +4,14 @@
 スライド・文書・図・Web を作るためのエージェントスキル。
 
 - 公式: <https://design-system.isct.ac.jp/ja>
-- このリポジトリは研究室内向けの**非公式の要約**。デザインシステムの著作権は東京科学大学に
-  帰属する。外部に公開・再配布しない。
+- このリポジトリは公式デザインシステムの**非公式の要約**で、大学が作成・管理しているものではない。
+  デザインシステムの著作権は東京科学大学に帰属する。
 - ロゴデータは含めていない。ロゴと公式 PowerPoint テンプレートは、学内限定の
   デザインシステム（完全版）のブランドデータダウンロードから各自で入手する。
 
 ## インストール
 
-[skills CLI](https://github.com/vercel-labs/skills) を使う。private リポジトリなので、
-GitHub にログイン済み（`gh auth login` か SSH 鍵）であること。
+[skills CLI](https://github.com/vercel-labs/skills) を使う。
 
 Claude Code と Codex の両方に入れる（ユーザー全体）:
 
